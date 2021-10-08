@@ -4,4 +4,4 @@ Blocks the YouTube cookies popup.
 
 Are you **tired** of seeing this popup?
 
-If so, then install this plugin, which removes it ***completely!***.
+If so, install this plugin, which removes it ***completely!***.
