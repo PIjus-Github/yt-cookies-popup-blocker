@@ -11,3 +11,6 @@ Once it has downloaded, install ***yt-cookies-popup-blocker.js*** with [TamperMo
 [OrangeMonkey](https://chrome.google.com/webstore/detail/orangemonkey/ekmeppjgajofkpiofbebgcbohbmfldaf), [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), etc.
 
 Now you should be able to use it properly.
+## TODO:
+
+- [ ] Redirect if popup appears in consent.youtube.com
