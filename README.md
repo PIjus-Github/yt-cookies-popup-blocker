@@ -1,5 +1,7 @@
 # yt-cookies-popup-blocker
 Blocks the YouTube cookies popup.
+
+
 ![Popup](https://raw.githubusercontent.com/PIjus-Github/yt-cookies-popup-blocker/main/readme/preview.PNG)
 
 Are you **tired** of seeing this popup?
