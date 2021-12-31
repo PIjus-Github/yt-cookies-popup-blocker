@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube Cookies Popup Blocker
-// @namespace    https://github.com/Peeeaaayus
+// @namespace    https://github.com/Peeyos1
 // @version      1.0
 // @description  Blocks the YouTube cookies popup.
 // @author       PIjus
